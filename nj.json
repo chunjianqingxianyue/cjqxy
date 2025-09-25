@@ -63,7 +63,6 @@
 "sklSummoned": "召唤出[1]",
 "sklThunder": "[0]使用[雷击术]",
 "sklThunderEnd": "[0][回避]了攻击",
-
 "benchmarking": "实力评估中...[2]%",
 "benchmarkRatio": "》 胜率: [2]%",
 "benchmarkScore": "》 实力评分: [2]",
@@ -148,7 +147,6 @@
 "challengeLabel": "挑战Boss",
 "selectBossHint": "选择Boss",
 "win": "[2]获得胜利",
-
 "minionDie": "[1]无法再造成影响",
 "damage": "[1]损失[2]点内卷度",
 "die": "[1]分心了",
@@ -167,7 +165,6 @@
 "sklZombieName": "？？",
 "sklZombie": "[0][？？]",
 "sklZombied": "[2]成为[1]",
-
 "weaponDeathNoteAtk": "[0]在[死亡笔记]写下[1]的名字",
 "weaponRModifierUse": "[0]使用[属性修改器]",
 "weaponS11_0": "[0]在促销日[购买]了武器",
